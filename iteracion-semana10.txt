@@ -1,0 +1,11 @@
+Tareas que haría primero:
+1. Registrar incidencias
+2. Recibir alertas en Telegram
+
+¿Por qué?
+Porque permiten iniciar el sistema y hacer seguimiento inmediato.
+
+Definición de terminado:
+- Funciona correctamente
+- Fue probado
+- Está guardado en GitHub
